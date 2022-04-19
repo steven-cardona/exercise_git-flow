@@ -7,3 +7,11 @@ export const convertName = (nombre) => {
 };
 
 export const validateEmail = (email) => email.includes("@gmail.com");
+
+export const Person = {
+  name: "Steven",
+  age: 18,
+  showInfo: function () {
+    return this.name + " " + this.age;
+  },
+};
