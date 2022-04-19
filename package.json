@@ -1,0 +1,22 @@
+{
+  "name": "ejemplo-gitflow",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steven-cardona/exercise_git-flow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steven-cardona/exercise_git-flow/issues"
+  },
+  "homepage": "https://github.com/steven-cardona/exercise_git-flow#readme"
+}
